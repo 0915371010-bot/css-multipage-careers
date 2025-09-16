@@ -1,0 +1,24 @@
+body {
+    background-color: darkgray;
+    color: whitesmoke;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Impact;
+    background-color: aqua;
+}
+
+h2 {
+    font-family: Impact;
+    background-color: aqua;
+}
+
+a {
+    color: lightblue;
+}
+
+.more-info {
+    color: white;
+    background-color: orange;
+}
